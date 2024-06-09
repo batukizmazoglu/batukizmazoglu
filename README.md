@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Batu+Kızmazoğlu!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Cyprus</h3>
+<h3 align="center">A passionate software engineer from Cyprus</h3>
 
 <br/>
 
@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,c++,c#,java,mssql" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,kali,aws,gcp,nodejs,bootstrap,html,css,regex,tailwind,git,r,nodejs,py,javascript,typescript,c,cpp,cs,java,mssql&perline=10" />
 </div>
 
 <br/>
