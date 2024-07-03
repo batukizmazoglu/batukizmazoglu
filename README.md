@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,kali,aws,gcp,nodejs,bootstrap,html,css,regex,tailwind,git,r,nodejs,py,javascript,typescript,c,cpp,cs,java,mssql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,aws,gcp,nodejs,bootstrap,html,css,regex,git,r,py,javascript,typescript,c,cpp,cs,java,mssql&perline=9" />
 </div>
 
 <br/>
